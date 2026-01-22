@@ -64,16 +64,3 @@ The current structure places the main apps under `lib/layout/news_app` and `lib/
 
 This will make it easier for recruiters to see the distinct projects.
 
-## Screenshots
-
-**(Placeholder: Add screenshots or GIFs of the running applications here. This is crucial for a good README.)**
-
----
-
-### 3. الخطوات التالية
-
-1.  **قم بتغيير اسم المستودع** على GitHub إلى `Flutter-App-Showcase`.
-2.  **قم بإنشاء ملف `README.md`** جديد في جذر المستودع وانسخ المحتوى أعلاه.
-3.  **املأ الأماكن الفارغة (Placeholders)** في ملف `README` (مثل نوع State Management).
-4.  **أضف لقطات شاشة (Screenshots)** أو مقاطع فيديو قصيرة (GIFs) للتطبيقات.
-5.  **راجع سيرتك الذاتية (CV)**: بعد الانتهاء من GitHub، يمكننا مراجعة سيرتك الذاتية لـ Flutter. يرجى تزويدي بنسخة منها أو بالنقاط الرئيسية التي تريد تضمينها.
